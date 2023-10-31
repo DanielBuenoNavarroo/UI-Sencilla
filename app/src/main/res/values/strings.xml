@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UI-Sencilla</string>
+    <string name="TextPlain">Enter a message</string>
+    <string name="Boton1">Send</string>
+    <string name="TextView2">Haz una pregunta</string>
+    <string name="no_pregunta">No has preguntado nada</string>
+
+    <string-array name="respuestasBuenas">
+        <item>Es cierto</item>
+        <item>Sin lugar a dudas</item>
+        <item>Lo más probable</item>
+        <item>Si</item>
+        <item>Puedes confiar en ello</item>
+    </string-array>
+
+    <string-array name="respuestasMalas">
+        <item>No cuentes con ello</item>
+        <item>Mi respuesta es no</item>
+        <item>Mis fuentes dicen que no</item>
+        <item>Las perspectivas no son muy buenas</item>
+        <item>Muy dudoso</item>
+    </string-array>
+
+    <string-array name="respuestasNeutras">
+        <item>Pregunta despues</item>
+        <item>Mejor no te lo digo</item>
+        <item>Concéntrate y vuelve a preguntar</item>
+    </string-array>
+</resources>
